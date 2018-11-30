@@ -3,6 +3,8 @@
 `yarn install`
 `cd swapi-graphql` `yarn install`
 
+star wars api graphql server is from this repo [https://github.com/vnovick/reason-graphql-demoapp](https://github.com/vnovick/reason-graphql-demoapp)
+
 For Github REST api
 - in `fetchRepos.re` change `TOKEN` to actual github token
 
