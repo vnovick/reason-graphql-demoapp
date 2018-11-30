@@ -14,6 +14,6 @@ let make = (~message, _children) => {
         <img src=logo className="App-logo" alt="logo" />
         <h2> {message |> ste} </h2>
       </div>
-      <GraphQLAppGithub />
+      <GraphQLAppRoot />
     </div>,
 };
